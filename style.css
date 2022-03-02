@@ -1,0 +1,11 @@
+.menu{
+    background-color: red;
+    color: white;
+
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
